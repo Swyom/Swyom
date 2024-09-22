@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm P Swayom<br>I'm a B.Tech student specializing in Computer Science Engineering. I have a passion for coding and web development, with skills in:<br><br>Languages: C, Python, Java, JavaScript<br>Web Development: HTML, CSS, and a bit of JavaScript<br>I'm currently expanding my knowledge in full-stack development and open to collaborating on projects that challenge my skills. Feel free to check out my repositories or reach out if you'd like to collaborate!<br><br>
+Hi there! 👋 I'm P Swyom Sanjog<br>I'm a B.Tech student specializing in Computer Science Engineering. I have a passion for coding and web development, with skills in:<br><br>Languages: C, Python, Java, JavaScript<br>Web Development: HTML, CSS, and a bit of JavaScript<br>I'm currently expanding my knowledge in full-stack development and open to collaborating on projects that challenge my skills. Feel free to check out my repositories or reach out if you'd like to collaborate!<br><br>
 
 
 ## 🌐 Socials:
